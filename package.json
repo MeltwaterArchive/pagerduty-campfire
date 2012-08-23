@@ -1,0 +1,7 @@
+{
+  "name": "pagerduty-campfire",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": ">= 2.10.0"
+  }
+}

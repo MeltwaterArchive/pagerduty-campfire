@@ -1,0 +1,14 @@
+{
+  "pagerduty": {
+    "username": "a@example.com",
+    "password": "*************",
+    "domain": "example.pagerduty.com"
+    "service": "*************"
+  },
+  "campfire": {
+    "api_key": "*************",
+    "room": 1234567890,
+    "domain": "example.campfirenow.com"
+  },
+  "polling_interval": 30000
+}
